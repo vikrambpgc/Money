@@ -1,0 +1,10 @@
+mike	breed1	five	10	99	50
+katy	Alpha	4	20	88	40
+perry	Alpha	9	30	77	60
+hrithik	Gamma	9	30	77
+perry	Gamma	9	30	77	60
+liana	breed2	13	30	77	30
+oioio	Beta	9	30	77	60
+galt	Beta	9	33	77	60
+galt	Gamma	9	30	77	60
+galt	Gamma	9	thirty	77	100

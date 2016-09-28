@@ -1,0 +1,12 @@
+Marry,F,7065
+Anna,F,2604
+Emma,F,2033
+Elizabeth,F,1939
+Minnie,F,1746
+Margaret,F,1578
+Anna,F,1440
+Bella,F,1210
+Isai,F,1011
+Gary,F,988
+Teriyaki,F,860
+Taaniya,F,750
